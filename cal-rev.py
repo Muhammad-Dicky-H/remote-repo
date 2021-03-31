@@ -1,5 +1,4 @@
-int x
-int y
+
 
 
 def add(x,  y):
